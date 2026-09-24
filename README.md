@@ -49,7 +49,7 @@
 
 <br/><br/>
 
-"Código, café y un poco de magia ✨"
+"Me gusta mejorar constantemente en mis habilidades💕💻"
 
 <p align="right">contacto: <a href="https://github.com/peraltavictoria">@peraltavictoria</a></p>
 
