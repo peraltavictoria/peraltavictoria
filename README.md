@@ -42,6 +42,8 @@
 </p>
 
 <br clear="both"/>
+<br/>
+<br/>
 
 <img src="./imagenes/imagen2.png" width="270" align="right" />
 
