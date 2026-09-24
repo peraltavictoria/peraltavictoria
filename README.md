@@ -17,7 +17,7 @@
 
 <br clear="both"/>
 
-<img src="./imagen1.png" width="337" align=right />
+<img src="./imagenes/imagen1.png" width="337" align=right />
 <br/>
 
 ### Tech Stack
@@ -43,7 +43,7 @@
 
 <br clear="both"/>
 
-<img src="./imagen2.png" width="270" align="right" />
+<img src="./imagenes/imagen2.png" width="270" align="right" />
 
 <br/><br/>
 
